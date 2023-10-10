@@ -1,0 +1,7 @@
+langchain
+openai
+sounddevice
+soundfile
+keyboard
+elevenlabs
+python-dotenv
